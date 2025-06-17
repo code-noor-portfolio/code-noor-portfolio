@@ -15,9 +15,15 @@ Je cherche à retrouver le plaisir de créer, à dépasser mes blocages, et à f
 
 ## ⚙️ Techs que j’explore en ce moment
 
-- **Back-end** : Java · Node.js · Express · PostgreSQL · MongoDB  
-- **Front-end** : HTML · CSS · React · TailwindCSS  
-- **Autres** : Git · Figma · UI minimaliste · un peu d’animation
+- **Java & Spring Boot** — backend solide, sécurité, tests, déploiement (Gestionnaire de tâches)  
+- **Node.js & Express + TypeScript** — API REST claire, publique et documentée (API REST Node.js)  
+- **React & Tailwind CSS** — frontend moderne, UX/UI, animations (Portfolio personnel, mini-projet UX/UI)  
+- **Next.js** — SEO, rendu côté serveur, blog & vidéos (Portfolio personnel)  
+- **Python & C** — algorithmes, outils CLI, documentation (Projet algorithmique)  
+- **Bases de données** : PostgreSQL, MongoDB  
+- **Outils & design** : Git, Figma, UI minimaliste
+
+Je réactive mes bases, j’apprends ce que j’ai évité, et j’expérimente sans pression.
 
 Je réactive mes bases, j’apprends ce que j’ai évité, et j’expérimente sans pression.
 
